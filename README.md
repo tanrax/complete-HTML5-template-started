@@ -17,10 +17,14 @@ Modern and complete HTML5 template to start your web pages
 			<title>Inicio</title>
 			<!-- Icono que acompañará al title. También será el icono que se guardará a la hora de que hagan un marcador. Se recomienda un tamaño de 32x32 y en PNG	-->
 			<link rel="icon" type="image/png" href="favicon.png">
+			<!--(Opcional) Sugiere un color al navegador para personalizar la ventana -->
+			<meta name="theme-color" content="#3c790a">
 			<!--Bloquea el zoom en smartphones-->
 			<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, shrink-to-fit=no">
-			<!--Declara quien es el autor. Sin utilidad práctica-->
-			<meta name="author" content="Tu nombre">			
+			<!--Declara quien es el autor. Sin utilidad práctica -->
+			<meta name="author" content="Tu nombre">
+			<!--(Opcional) Indica con que tecnologias se ha generado el HTML -->
+			<meta name="generator" content="Clojure">
 			<!--Declara palabras claves -->
 			<meta name="keywords" content="html, css, javascript">
 			<!--Declara la descripción de la web. Es utilizado por los motores de busqueda para la previa -->
