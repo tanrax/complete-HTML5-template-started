@@ -3,7 +3,7 @@ Modern and complete HTML5 template to start your web pages
 
 ## Spanish
 
-[Download](spanish/with-comments.html)
+<a download href="https://raw.githubusercontent.com/tanrax/complete-HTML5-template-started/master/spanish/with-comments.html">Download</a>
 
 ```html
 <!--Indica que el documento utiliza HTML5-->
