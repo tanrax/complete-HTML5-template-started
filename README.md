@@ -1,2 +1,52 @@
 # complete-HTML5-template-started
 Modern and complete HTML5 template to start your web pages
+
+## Spanish
+
+[Download](spanish/with-comments.html)
+
+```html
+<!--Indica que el documento utiliza HTML5-->
+<!DOCTYPE html>
+<!--Hace saber al navegador que la página esta en castellano-->
+<html lang="es">
+	<!--Configuraciones-->
+	<head>
+			<!--Permite carácteres extraños del alfabeto americano: ñ, á, é...-->
+			<meta charset="utf-8" />
+			<!--Título que aparecerá en la pestaña - La estructura será el nombre de la página actual + Descripción del sitio-->
+			<title>Inicio</title>
+			<!-- Icono que acompañará al title. También será el icono que se guardará a la hora de que hagan un marcador. Se recomienda un tamaño de 32x32 y en PNG	-->
+			<link rel="icon" type="image/png" href="favicon.png">
+			<!--Bloquea el zoom en smartphones-->
+			<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, shrink-to-fit=no">
+			<!--Declara quien es el autor. Sin utilidad práctica-->
+			<meta name="author" content="Tu nombre">			
+			<!--Declara palabras claves -->
+			<meta name="keywords" content="html, css, javascript">
+			<!--Declara la descripción de la web. Es utilizado por los motores de busqueda para la previa -->
+			<meta name="description" content="Descripcion de tu web">
+			<!-- Open Graph: Declara como se mostrará la previa del enlace si es compartida por Facebook o alguna otra red social -->
+			<meta property="og:image" content="img/miniatura.png">
+			<meta property="og:title" content="The Rock" />
+			<!-- website, video, audio, article, book o profile -->
+			<meta property="og:type" content="website" />
+			<meta property="og:url" content="http://www.imdb.com/title/tt0117500/" />
+			<!-- Open Graph Imagen completa (Opcional) -->
+			<meta property="og:image:secure_url" content="https://secure.example.com/ogp.jpg" />
+			<meta property="og:image:type" content="image/jpeg" />
+			<meta property="og:image:width" content="400" />
+			<meta property="og:image:height" content="300" />
+			<meta property="og:image:alt" content="A shiny red apple with a bite taken out" />
+			<!-- Normalizador: Equilibra los estilos entre los Navegadores -->
+			<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css">
+			<!--Tus archivos CSS-->
+			<link rel="stylesheet" type="text/css" href="css/main.css">
+		</head>	
+	<!--Contenido de la web-->
+	<body>
+		Tu HTML
+	</body>	
+</html>
+
+```
