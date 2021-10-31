@@ -26,7 +26,7 @@ Modern and complete HTML5 template to start your web pages
 			<meta name="theme-color" 
 			      content="#ecd96f" 
 			      media="(prefers-color-scheme: light)">
-			<!-- (Opcional) Sugiere un color al navegador para personalizar la ventana en modo OSCURO -->
+			<!-- (Opcional) Sugiere un color al navegador para personalizar la ventana en modo oscuro -->
 			<meta name="theme-color" 
 			      content="#0b3e05" 
 			      media="(prefers-color-scheme: dark)">
