@@ -57,8 +57,6 @@ Modern and complete HTML5 template to start your web pages
 			<meta property="og:image:alt" content="A shiny red apple with a bite taken out">
 			<!-- Normalizador normalize.css: Equilibra los estilos entre los Navegadores -->
 			<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css">
-			<!-- Normalizador symbiosis.css: Arregla problemas en versiones de Smartphone -->
-                        <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/sapps-studio/symbiosis-css/symbiosis.min.css">
 			<!-- Tus archivos CSS -->
 			<link rel="stylesheet" type="text/css" href="css/main.css">
 		</head>	
