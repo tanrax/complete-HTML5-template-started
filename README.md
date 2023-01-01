@@ -1,4 +1,4 @@
-# complete-HTML5-template-started
+# Complete HTML5 template started
 
 Modern and complete HTML5 template to start your web pages.
 
@@ -9,10 +9,10 @@ Modern and complete HTML5 template to start your web pages.
 
 ## Spanish
 
-### Sin comentarios
-
-<a download target="_blank" href="https://raw.githubusercontent.com/tanrax/spanish/complete-html5-template-started-with-comments.html">Descarga versión sin comentarios</a>
-
 ### Con comentarios
 
-<a download target="_blank" href="https://raw.githubusercontent.com/tanrax/spanish/complete-html5-template-started-without-comments.html">Descarga versión sin comentarios</a>
+<a download target="_blank" href="https://raw.githubusercontent.com/tanrax/complete-HTML5-template-started/master/spanish/complete-html5-template-started-with-comments.html">Descarga versión sin comentarios</a>
+
+### Sin comentarios
+
+<a download target="_blank" href="https://raw.githubusercontent.com/tanrax/complete-HTML5-template-started/master/spanish/complete-html5-template-started-without-comments.html">Descarga versión sin comentarios</a>
