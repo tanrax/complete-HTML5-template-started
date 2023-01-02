@@ -11,7 +11,7 @@ Modern and complete HTML5 template to start your web pages.
 
 ### Con comentarios
 
-<a download target="_blank" href="https://raw.githubusercontent.com/tanrax/complete-HTML5-template-started/master/spanish/complete-html5-template-started-with-comments.html">Descargars</a>
+<a download target="_blank" href="https://raw.githubusercontent.com/tanrax/complete-HTML5-template-started/master/spanish/complete-html5-template-started-with-comments.html">Descargar</a>
 
 ### Sin comentarios
 
